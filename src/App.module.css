@@ -1,0 +1,17 @@
+body {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  background-color:rgb(203 185 34);
+}
+
+.PokemonListCard{
+  margin-top: 100px;
+
+  width: 700px;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 50px;
+  justify-content: space-between;
+}
+
